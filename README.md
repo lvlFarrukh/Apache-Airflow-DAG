@@ -1,4 +1,3 @@
-# Apache-Airflow-DAG
 # Server Logs ETL with Apache Airflow
 
 ## Project Description
@@ -13,7 +12,7 @@ This project is an example of an ETL (Extract, Transform, Load) process implemen
 
 The project contains the following key components:
 
-- **etl.py**: This is the Apache Airflow DAG script that defines the ETL workflow. It orchestrates the ETL process by specifying tasks for extraction, transformation, and loading.
+- **ETL_Server_Access_Log_Processing.py**: This is the Apache Airflow DAG script that defines the ETL workflow. It orchestrates the ETL process by specifying tasks for extraction, transformation, and loading.
 
 ## Prerequisites
 
